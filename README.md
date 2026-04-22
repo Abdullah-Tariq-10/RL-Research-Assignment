@@ -4,8 +4,10 @@
 
 This repository contains an implementation of **Doubly Mild Generalization (DMG)**, an offline reinforcement learning algorithm designed to stabilize policy learning on static datasets. The agent is trained and evaluated entirely offline using the D4RL `medium-v2` datasets.
 
-[![View Training Notebook](https://img.shields.io/badge/render-NBViewer-orange?logo=jupyter)](https://nbviewer.org/github/YOUR_GITHUB_USERNAME/dmg-offline-rl/blob/main/notebooks/DMG-IMPLEMENTATION.ipynb)
-[![View Environment Tests](https://img.shields.io/badge/render-NBViewer-orange?logo=jupyter)](https://nbviewer.org/github/YOUR_GITHUB_USERNAME/dmg-offline-rl/blob/main/notebooks/dmg_env_test.ipynb)
+[![View Training Notebook](https://img.shields.io/badge/render-NBViewer-orange?logo=jupyter)](https://nbviewer.org/github/Abdullah-Tariq-10/
+RL-Research-Assignment/blob/main/notebooks/DMG-IMPLEMENTATION.ipynb)
+[![View Environment Tests](https://img.shields.io/badge/render-NBViewer-orange?logo=jupyter)](https://nbviewer.org/github/Abdullah-Tariq-10/
+RL-Research-Assignment/blob/main/notebooks/dmg_env_test.ipynb)
 
 ---
 
